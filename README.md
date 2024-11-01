@@ -1,4 +1,4 @@
-----👋 Hi, I’m @ian Frank Odundo, a versatile professional with a passion for Product Design based in Nairobi, Kenya.
+----👋 Hi, I’m @ian Frank Odundo, a versatile professional passionate about Product Design and development based in Nairobi, Kenya.
 
 ----👀 I’m interested in creating impactful digital solutions that seamlessly integrate marketing strategies with innovative design.
 
