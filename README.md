@@ -1,10 +1,20 @@
-----👋 Hi, I’m @ian Frank Odundo, a versatile professional passionate about Product design and software development based in Nairobi, Kenya.
+# 👋 Hi there, I'm Ian Frank Odundo
 
-----👀 I’m interested in creating impactful digital solutions that seamlessly integrate marketing strategies with innovative design.
+I'm a **versatile digital creator** based in **Nairobi, Kenya**, passionate about **Product Design** and **Software Development**.
 
-----🌱 Currently learning and staying updated on the latest technologies and trends in the dynamic digital space.
-----💞️ I’m looking to collaborate on exciting projects and push the boundaries of creativity and technology.
-----📫 How to reach me: Feel free to connect with me on LinkedIn or drop me an email at ianodundo12@gmail.com 
+## 👀 What I'm About
+I thrive at the intersection of **technology, creativity, and strategy** — building **impactful digital solutions** that blend innovative design with smart marketing.
 
-. I'm always open to new challenges and collaborations!
+## 🌱 Always Growing
+I'm constantly exploring new technologies, design trends, and development frameworks to stay sharp in the fast-evolving digital landscape.
+
+## 💡 Let’s Collaborate
+I'm open to **exciting projects**, **creative challenges**, and **collaborations** that push boundaries in product innovation, branding, or digital experiences.
+
+## 📬 Reach Out
+- 📧 Email: [ianodundo12@gmail.com](mailto:ianodundo12@gmail.com)  
+- 💼 LinkedIn:
+
+Let’s build something **bold, useful**, and **human-centered**.
+
 
